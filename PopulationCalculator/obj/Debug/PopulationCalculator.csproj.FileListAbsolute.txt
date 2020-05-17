@@ -1,0 +1,6 @@
+D:\Source\Repos\Projects\Codewars\CodeWars-PopulationGrowth\PopulationCalculator\bin\Debug\PopulationCalculator.dll
+D:\Source\Repos\Projects\Codewars\CodeWars-PopulationGrowth\PopulationCalculator\bin\Debug\PopulationCalculator.pdb
+D:\Source\Repos\Projects\Codewars\CodeWars-PopulationGrowth\PopulationCalculator\obj\Debug\PopulationCalculator.csprojAssemblyReference.cache
+D:\Source\Repos\Projects\Codewars\CodeWars-PopulationGrowth\PopulationCalculator\obj\Debug\PopulationCalculator.csproj.CoreCompileInputs.cache
+D:\Source\Repos\Projects\Codewars\CodeWars-PopulationGrowth\PopulationCalculator\obj\Debug\PopulationCalculator.dll
+D:\Source\Repos\Projects\Codewars\CodeWars-PopulationGrowth\PopulationCalculator\obj\Debug\PopulationCalculator.pdb

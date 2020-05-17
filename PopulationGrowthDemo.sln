@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30104.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopulationGrowthApp", "PopulationGrowthApp\PopulationGrowthApp.csproj", "{0151724D-7457-4EE7-8998-7CBF5220E91A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopulationCalculator", "PopulationCalculator\PopulationCalculator.csproj", "{E30DD68E-3ABA-4E1D-B69B-6169DB3FAFAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0151724D-7457-4EE7-8998-7CBF5220E91A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0151724D-7457-4EE7-8998-7CBF5220E91A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0151724D-7457-4EE7-8998-7CBF5220E91A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E30DD68E-3ABA-4E1D-B69B-6169DB3FAFAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E30DD68E-3ABA-4E1D-B69B-6169DB3FAFAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E30DD68E-3ABA-4E1D-B69B-6169DB3FAFAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E30DD68E-3ABA-4E1D-B69B-6169DB3FAFAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
